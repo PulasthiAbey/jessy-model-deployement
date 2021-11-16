@@ -25,7 +25,6 @@ distro-info===1.0
 dnspython==1.16.0
 docutils==0.17.1
 docx2txt==0.8
-duplicity==0.8.12.0
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
 entrypoints==0.3
 fasteners==0.14.1
