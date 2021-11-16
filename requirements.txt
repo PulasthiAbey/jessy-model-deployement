@@ -70,7 +70,7 @@ murmurhash==1.0.6
 nest-asyncio==1.5.1
 netifaces==0.10.4
 nltk==3.6.5
-notify2==0.3
+notify2==0.3.1
 numpy==1.21.2
 oauth2client==4.1.2
 oauthlib==3.1.0
