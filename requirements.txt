@@ -164,5 +164,4 @@ wasabi==0.8.2
 wcwidth==0.2.5
 Werkzeug==2.0.2
 wordcloud==1.8.1
-xkit==0.0.0
 zipp==3.6.0
