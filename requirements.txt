@@ -114,7 +114,7 @@ pyresparser==1.0.6
 pyRFC3339==1.1
 pyrsistent==0.18.0
 PySocks==1.7.1
-python-apt==2.0.0+ubuntu0.20.4.6
+python-apt==0.7.8
 python-dateutil==2.8.2
 python-debian===0.1.36ubuntu1
 python-markdown-math==0.8
