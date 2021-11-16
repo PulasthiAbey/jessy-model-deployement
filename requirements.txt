@@ -159,7 +159,6 @@ typer==0.4.0
 typing_extensions==4.0.0
 uritemplate==0.6
 urllib3==1.25.8
-usb-creator==0.3.7
 wadllib==1.3.3
 wasabi==0.8.2
 wcwidth==0.2.5
